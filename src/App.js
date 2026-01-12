@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import Banner from './components/Banner';
 import AboutMe from './components/AboutMe';
 import Portfolio from './components/Portfolio';
+import ContactMe from './components/ContactMe';
 
 function App() {
   return (
@@ -21,6 +22,9 @@ function App() {
         </section>
         <section id="portfolio" className="snap-start">
           <Portfolio />
+        </section>
+        <section id="contact-me" className="snap-start">
+          <ContactMe />
         </section>
       </div>
     </div>

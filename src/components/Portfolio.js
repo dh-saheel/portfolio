@@ -74,7 +74,7 @@ export default function Portfolio() {
           <p className="mt-2 text-gray-600">
             I also enjoy creating digital art and illustrations. Here are some of my favorite pieces.
           </p>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6 mb-6">
             <div className="">
               <img className='my-3 rounded-lg' src={banner1} alt='logo' />
             </div>

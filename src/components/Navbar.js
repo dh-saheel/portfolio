@@ -7,6 +7,7 @@ const Navbar = () => {
         <li className="mb-8"><a className='px-10 py-4 btn'href="#banner">Banner</a></li>
         <li className="mb-8"><a className='px-10 py-4 btn'href="#about-me">About Me</a></li>
         <li className="mb-8"><a className='px-10 py-4 btn'href="#portfolio">Portfolio</a></li>
+        <li className="mb-8"><a className='px-10 py-4 btn'href="#contact-me">Contact Me</a></li>
       </ul>
     </div>
   );
